@@ -25,13 +25,13 @@
 
 | Phase | Days | Topic | Time/Day |
 |---|---|---|---|
-| [Phase 1](./phase-1-foundations.md) | 1–60 | Foundations — Networking, HTTP, Linux, OWASP | 1–2 hrs |
-| [Phase 2](./phase-2-web-security.md) | 61–130 | Web Security — XSS, SQLi, CSRF, IDOR, Auth | 2 hrs |
-| [Phase 3](./phase-3-api-security.md) | 131–190 | API Security — REST, JWT, OAuth, GraphQL | 2 hrs |
-| [Phase 4](./phase-4-tools.md) | 191–240 | Tools — Burp Suite, Nmap, ffuf, SQLmap | 2 hrs |
-| [Phase 5](./phase-5-devsecops.md) | 241–290 | DevSecOps — SAST, DAST, CI/CD, Secrets | 2 hrs |
-| [Phase 6](./phase-6-bug-bounty.md) | 291–335 | Bug Bounty — Recon, Reporting, Platforms | 2–3 hrs |
-| [Phase 7](./phase-7-advanced.md) | 336–365 | Advanced — Threat Modeling, Code Review, Career | 2–3 hrs |
+| [Phase 1](365_phase-1-foundations.md) | 1–60 | Foundations — Networking, HTTP, Linux, OWASP | 1–2 hrs |
+| [Phase 2](365_phase-2-web-security.md) | 61–130 | Web Security — XSS, SQLi, CSRF, IDOR, Auth | 2 hrs |
+| [Phase 3](365_phase-3-api-security.md) | 131–190 | API Security — REST, JWT, OAuth, GraphQL | 2 hrs |
+| [Phase 4](365_phase-4-tools.md) | 191–240 | Tools — Burp Suite, Nmap, ffuf, SQLmap | 2 hrs |
+| [Phase 5](365_phase-5-devsecops.md) | 241–290 | DevSecOps — SAST, DAST, CI/CD, Secrets | 2 hrs |
+| [Phase 6](365_phase-6-bug-bounty.md) | 291–335 | Bug Bounty — Recon, Reporting, Platforms | 2–3 hrs |
+| [Phase 7](365_phase-7-advanced.md) | 336–365 | Advanced — Threat Modeling, Code Review, Career | 2–3 hrs |
 
 ---
 
