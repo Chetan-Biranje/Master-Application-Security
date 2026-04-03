@@ -243,4 +243,4 @@ nuclei -l alive.txt -t exposures/ -t misconfiguration/ -severity high,critical
 
 ---
 
-*Next: [Phase 7 — Advanced](./phase-7-advanced.md)*
+*Next: [Phase 7 — Advanced](365_phase-7-advanced.md)*
