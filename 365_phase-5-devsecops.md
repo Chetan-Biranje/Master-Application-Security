@@ -274,4 +274,4 @@ trivy image --severity HIGH,CRITICAL nginx:latest
 
 ---
 
-*Next: [Phase 6 — Bug Bounty](./phase-6-bug-bounty.md)*
+*Next: [Phase 6 — Bug Bounty](365_phase-6-bug-bounty.md)*
