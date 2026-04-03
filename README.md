@@ -128,4 +128,4 @@ CC0 1.0 Universal — free to use, share, modify, no attribution required.
 
 ---
 
-*Built by [Chetan Biranje](https://github.com/mr-Shadex) · AppSec Engineer · Pune, India*
+*Built by [Chetan Biranje](https://github.com/Chetan-Biranje) · AppSec Engineer · Pune, India*
