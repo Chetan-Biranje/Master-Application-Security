@@ -200,4 +200,4 @@ Security is a continuous field. Day 365 is not graduation — it's the beginning
 
 ---
 
-*Built by [Chetan Biranje](https://github.com/mr-Shadex) · Application Security Engineer · Pune, India*
+*Built by [Chetan Biranje](https://github.com/Chetan-Biranje) · Application Security Engineer · Pune, India*
